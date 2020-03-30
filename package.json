@@ -1,0 +1,23 @@
+{
+  "name": "classified-server",
+  "version": "1.0.0",
+  "description": "Try it https://my-json-server.typicode.com/typicode/demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3004",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarprince/classified.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarprince/classified/issues"
+  },
+  "homepage": "https://github.com/sagarprince/classified#readme",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
