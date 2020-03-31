@@ -18,8 +18,8 @@
     "url": "https://github.com/sagarprince/classified/issues"
   },
   "homepage": "https://github.com/sagarprince/classified#readme",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "json-server": "^0.16.1"
-  }
+  },
+  "devDependencies": {}
 }
