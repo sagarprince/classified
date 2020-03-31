@@ -2,8 +2,10 @@
   "name": "classified-server",
   "version": "1.0.0",
   "description": "Try it https://my-json-server.typicode.com/typicode/demo",
+  "main": "server.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 3004",
+    "start": "node server.js",
+    "watch": "json-server --watch db.json --port 7823",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,7 +18,8 @@
     "url": "https://github.com/sagarprince/classified/issues"
   },
   "homepage": "https://github.com/sagarprince/classified#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "json-server": "^0.16.1"
   }
 }
