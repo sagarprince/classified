@@ -12,10 +12,6 @@
       "address": "Wakad, Pune",
       "lat": "",
       "lng": "",
-      "user": {
-        "id": 1,
-        "name": "Sagar Pansare"
-      },
       "type": "sell"
     },
     {
@@ -25,15 +21,11 @@
       "description": "",
       "price": 12000,
       "photos": [
-        "https://cdn1.droom.in/photos/listing/2017-12-03/43203ea2a6db6e6f7b6faf794d565b27_large.jpg"
+        "https://lh3.googleusercontent.com/proxy/Cs1j1Zvq27Itw5QgE7avcYxDjukYhBSO6g88261TR6geTD9JCv9sYFmIcTdeo2V7qHRv2nQWPEX4GeA7tHLajPDIH6BLW_7w8JVw4clAg90lmmiYJc7ZKbtaX3NXLFhbhe-4aMVPKw"
       ],
       "address": "Hadpsar, Pune",
       "lat": "",
       "lng": "",
-      "user": {
-        "id": 1,
-        "name": "Vinit Saboo"
-      },
       "type": "sell"
     },
     {
@@ -49,10 +41,6 @@
       "address": "Hadpsar, Pune",
       "lat": "",
       "lng": "",
-      "user": {
-        "id": 1,
-        "name": "Sagar Pansare"
-      },
       "type": "rent"
     },
     {
@@ -67,10 +55,6 @@
       "address": "Hadpsar, Pune",
       "lat": "",
       "lng": "",
-      "user": {
-        "id": 1,
-        "name": "Sagar Pansare"
-      },
       "type": "sell"
     }
   ],
