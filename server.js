@@ -8,6 +8,6 @@ const PORT = process.env.PORT || 3004;
 
 server.use(middlewares)
 server.use(router)
-server.listen(port, () => {
+server.listen(PORT, () => {
     console.log('Server is running on Port ' + PORT);
 });
