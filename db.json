@@ -9,8 +9,9 @@
       "photos": [
         {
           "id": "2ndCYJD",
-          "thumb": "https://www.slashgear.com/wp-content/uploads/2016/02/samsung-galaxy-note-5-review-sg-3-1280x720-800x420.jpg",
-          "uri": "https://www.slashgear.com/wp-content/uploads/2016/02/samsung-galaxy-note-5-review-sg-3-1280x720-800x420.jpg"
+          "thumbUrl": "https://www.slashgear.com/wp-content/uploads/2016/02/samsung-galaxy-note-5-review-sg-3-1280x720-800x420.jpg",
+          "url": "https://www.slashgear.com/wp-content/uploads/2016/02/samsung-galaxy-note-5-review-sg-3-1280x720-800x420.jpg",
+          "upload": true
         }
       ],
       "address": "Wakad, Pune",
@@ -31,8 +32,9 @@
       "photos": [
         {
           "id": "5ndCYJB",
-          "thumb": "https://cdn1.droom.in/photos/listing/2017-12-03/43203ea2a6db6e6f7b6faf794d565b27_large.jpg",
-          "uri": "https://cdn1.droom.in/photos/listing/2017-12-03/43203ea2a6db6e6f7b6faf794d565b27_large.jpg"
+          "thumbUrl": "https://cdn1.droom.in/photos/listing/2017-12-03/43203ea2a6db6e6f7b6faf794d565b27_large.jpg",
+          "url": "https://cdn1.droom.in/photos/listing/2017-12-03/43203ea2a6db6e6f7b6faf794d565b27_large.jpg",
+          "upload": true
         }
       ],
       "address": "Hadpsar, Pune",
@@ -54,8 +56,9 @@
       "photos": [
         {
           "id": "4ndCYJE",
-          "thumb": "https://is1-3.housingcdn.com/01c16c28/e2b5e0c2820fdb68dba29a33ebf280ef/v0/medium/2_bhk_apartment-for-sale-shivajinagar-Pune-living_room.jpg",
-          "uri": "https://is1-3.housingcdn.com/01c16c28/e2b5e0c2820fdb68dba29a33ebf280ef/v0/medium/2_bhk_apartment-for-sale-shivajinagar-Pune-living_room.jpg"
+          "thumbUrl": "https://is1-3.housingcdn.com/01c16c28/e2b5e0c2820fdb68dba29a33ebf280ef/v0/medium/2_bhk_apartment-for-sale-shivajinagar-Pune-living_room.jpg",
+          "url": "https://is1-3.housingcdn.com/01c16c28/e2b5e0c2820fdb68dba29a33ebf280ef/v0/medium/2_bhk_apartment-for-sale-shivajinagar-Pune-living_room.jpg",
+          "upload": true
         }
       ],
       "address": "Hadpsar, Pune",
@@ -76,8 +79,9 @@
       "photos": [
         {
           "id": "6ndCYJW",
-          "thumb": "https://www.cartoq.com/wp-content/uploads/2019/09/maruti-ciaz-used-featured-1.jpg",
-          "uri": "https://www.cartoq.com/wp-content/uploads/2019/09/maruti-ciaz-used-featured-1.jpg"
+          "thumbUrl": "https://www.cartoq.com/wp-content/uploads/2019/09/maruti-ciaz-used-featured-1.jpg",
+          "url": "https://www.cartoq.com/wp-content/uploads/2019/09/maruti-ciaz-used-featured-1.jpg",
+          "upload": true
         }
       ],
       "address": "Hadpsar, Pune",
