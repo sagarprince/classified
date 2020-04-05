@@ -14,9 +14,11 @@
           "upload": true
         }
       ],
-      "address": "Wakad, Pune",
-      "lat": "",
-      "lng": "",
+      "location": {
+        "name": "Wakad, Pune",
+        "lat": "",
+        "lng": ""
+      },
       "user": {
         "id": 1,
         "name": "Sagar Pansare"
@@ -37,9 +39,11 @@
           "upload": true
         }
       ],
-      "address": "Hadpsar, Pune",
-      "lat": "",
-      "lng": "",
+      "location": {
+        "name": "Hadpsar, Pune",
+        "lat": "",
+        "lng": ""
+      },
       "user": {
         "id": 1,
         "name": "Vinit Saboo"
@@ -61,9 +65,11 @@
           "upload": true
         }
       ],
-      "address": "Hadpsar, Pune",
-      "lat": "",
-      "lng": "",
+      "location": {
+        "name": "Hadpsar, Pune",
+        "lat": "",
+        "lng": ""
+      },
       "user": {
         "id": 1,
         "name": "Sagar Pansare"
@@ -84,9 +90,11 @@
           "upload": true
         }
       ],
-      "address": "Hadpsar, Pune",
-      "lat": "",
-      "lng": "",
+      "location": {
+        "name": "Chinchwad, Pune",
+        "lat": "",
+        "lng": ""
+      },
       "user": {
         "id": 1,
         "name": "Sagar Pansare"
