@@ -23,6 +23,7 @@
         "id": 1,
         "name": "Sagar Pansare"
       },
+      "isContactEnabled": true,
       "type": "sell"
     },
     {
@@ -48,6 +49,7 @@
         "id": 1,
         "name": "Vinit Saboo"
       },
+      "isContactEnabled": false,
       "type": "sell"
     },
     {
@@ -74,6 +76,7 @@
         "id": 1,
         "name": "Sagar Pansare"
       },
+      "isContactEnabled": true,
       "type": "rent"
     },
     {
@@ -99,6 +102,7 @@
         "id": 1,
         "name": "Sagar Pansare"
       },
+      "isContactEnabled": false,
       "type": "sell"
     }
   ],
