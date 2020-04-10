@@ -106,5 +106,36 @@
       "type": "sell"
     }
   ],
-  "alerts": []
+  "alerts": [
+    {
+      "id": 1,
+      "title": "Maruti Ciaz",
+      "productCategory": "vehicles",
+      "type": "buy",
+      "location": {
+        "name": "Chinchwad, Pune",
+        "lat": "",
+        "lng": ""
+      },
+      "user": {
+        "id": 1,
+        "name": "ABC"
+      }
+    },
+    {
+      "id": 2,
+      "title": "iPhone",
+      "productCategory": "electronics",
+      "type": "sell",
+      "location": {
+        "name": "wakad, Pune",
+        "lat": "",
+        "lng": ""
+      },
+      "user": {
+        "id": 2,
+        "name": "BCD"
+      }
+    }
+  ]
 }
