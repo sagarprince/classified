@@ -106,5 +106,42 @@
       "type": "sell"
     }
   ],
-  "alerts": []
+  "alerts": [
+    {
+      "id": 3,
+      "title": "Maruti Ciaz",
+      "categoryId": 3,
+      "type": "sell",
+      "location": {
+        "name": "Chinchwad, Pune",
+        "lat": "",
+        "lng": ""
+      },
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "iPhone",
+      "categoryId": 4,
+      "type": "sell",
+      "location": {
+        "name": "Wakad, Pune",
+        "lat": "",
+        "lng": ""
+      },
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "2 BHK Flat",
+      "categoryId": 1,
+      "type": "rent",
+      "location": {
+        "name": "Wakad, Pune",
+        "lat": "",
+        "lng": ""
+      },
+      "userId": 2
+    }
+  ]
 }
