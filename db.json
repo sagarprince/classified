@@ -108,33 +108,23 @@
   ],
   "alerts": [
     {
+      "userId": 1,
+      "isHome": false,
       "id": 1,
       "title": "Maruti Ciaz",
-      "categoryId": 3,
+      "categoryId": "3",
       "type": "sell",
       "location": {
         "name": "Chinchwad, Pune",
         "lat": "",
         "lng": ""
-      },
-      "userId": 1
+      }
     },
     {
+      "isHome": false,
       "id": 2,
-      "title": "iPhone",
-      "categoryId": 4,
-      "type": "sell",
-      "location": {
-        "name": "Wakad, Pune",
-        "lat": "",
-        "lng": ""
-      },
-      "userId": 2
-    },
-    {
-      "id": 3,
-      "title": "2 BHK Flat",
-      "categoryId": 1,
+      "title": "Ulysses by James Joyce",
+      "categoryId": "5",
       "type": "rent",
       "location": {
         "name": "Wakad, Pune",
@@ -142,6 +132,31 @@
         "lng": ""
       },
       "userId": 2
+    },
+    {
+      "isHome": false,
+      "id": 3,
+      "title": "2 BHK Flat",
+      "categoryId": "1",
+      "type": "rent",
+      "location": {
+        "name": "Wakad, Pune",
+        "lat": "",
+        "lng": ""
+      },
+      "userId": 2
+    },
+    {
+      "title": "IPhone SE",
+      "categoryId": "4",
+      "location": {
+        "name": "Pune International Airport, New Airport Road, Pune International Airport Area, Lohegaon, Pune, Maharashtra, India",
+        "lat": "18.57830",
+        "lng": "73.90771"
+      },
+      "type": "sell",
+      "userId": 1,
+      "id": 4
     }
   ]
 }
